@@ -23,7 +23,7 @@ I have organized my solutions into folders based on the categories or domains of
 - [Algorithms](https://www.hackerrank.com/domains/algorithms)
 - [Data Structures](https://www.hackerrank.com/domains/data-structures)
 - [Machine Learning/ AI](https://www.hackerrank.com/domains/ai)
-- [Interview Preparation](https://github.com/kru2710shna/HackerRank/tree/main/1%20Week%20Preparation%20Kit)
+- [Interview Preparation](https://github.com/kru2710shna/HackerRank/blob/main/1%20Week%20Preparation%20Kit/HackerRank%5B1-Week%20Preparation%20Kit%5D%20.py)
 - [Other](https://github.com/kru2710shna/HackerRank/)
 
 Feel free to explore the folders and solutions to see how I tackled different problems on HackerRank.
