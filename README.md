@@ -50,6 +50,6 @@ Your contributions are highly appreciated!
 
 ## License
 
-This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+This repository is licensed under the MIT License. See the [LICENSE](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) file for details.
 
 Happy coding!
